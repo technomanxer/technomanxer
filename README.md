@@ -3,6 +3,7 @@
 - 👀 I’m interested in developing learning tools and other scripts for education (K-12 specifically)
 - 👩🏻‍🏫 My main lines of work are developing tools and scripts to manage [Instructure Canvas](https://github.com/instructure/canvas-lms) and developing professional development for my district.
 - 🌱 I’m currently learning [requests](https://github.com/psf/requests) and [Google APIs](https://github.com/googleapis/google-api-python-client)
+- 📣 technomanxer is pronounced tech-no-mancer
 - 📫 Reach me through [melodyc][.][lam][@cms.k12.nc.us]
 
 # Code Samples/Gists
