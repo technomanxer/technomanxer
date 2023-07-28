@@ -17,6 +17,10 @@ It is highly recommended to 📖 read the notes in the code and run the code in 
 - [Disable Post to SIS for previous terms](https://gist.github.com/technomanxer/99bea65528977434aa21f78153a3a272)
 - BONUS ROUND: have emails sent to you if the Instructure Status page is reporting an error [(code here)](https://gist.github.com/technomanxer/aae26748d3e46d4b6f5ad1010435aa4a)
 
+# Coming soon:
+- Archive your courses to a subaccount
+- Revised comm channel editing for students
+- Enrollments
 <!---
 technomanxer/technomanxer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
